@@ -3,7 +3,7 @@
 <!---->
 
 <!--|
-<iframe style="width: 100%;aspect-ratio: 16 / 9;" src="//player.bilibili.com/player.html?isOutside=true&aid=1356196946&bvid=BV1Uz421q72t&cid=1606094261&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" scrolling="no" src="//player.bilibili.com/player.html?isOutside=true&amp;aid=1356196946&amp;bvid=BV1Uz421q72t&amp;cid=1606094261&amp;p=1" style="width: 100%;aspect-ratio: 16 / 9;"></iframe>
  |-->
  
 ## 目标 
