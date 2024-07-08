@@ -2,7 +2,7 @@
 # Python 微博爬虫
 
 
-> **💡提示** BiliBili 视频演式可以 [点我](https://www.bilibili.com/video/BV1Uz421q72t) 查看。
+> **💡提示** BiliBili 视频演示可以 [点我](https://www.bilibili.com/video/BV1Uz421q72t) 查看。
 
 > **💡提示** 个人博客页面发布页 [点我](https://lovepikachu.top/gitee-ad8739623c7ef3f3378ebc771719e7d47e406da5d8a0ae11ed30eb504255a32a.html) 查看。
 
