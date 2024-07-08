@@ -1,10 +1,18 @@
 <!---->
 # Python 微博爬虫
+
+
+> **💡提示** BiliBili 视频演式可以 [点我](https://www.bilibili.com/video/BV1Uz421q72t) 查看。
+
+> **💡提示** 个人博客页面发布页 [点我](https://lovepikachu.top/gitee-ad8739623c7ef3f3378ebc771719e7d47e406da5d8a0ae11ed30eb504255a32a.html) 查看。
+
 <!---->
 
 <!--|
 <iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" scrolling="no" src="//player.bilibili.com/player.html?isOutside=true&amp;aid=1356196946&amp;bvid=BV1Uz421q72t&amp;cid=1606094261&amp;p=1" style="width: 100%;aspect-ratio: 16 / 9;"></iframe>
  |-->
+
+
  
 ## 目标 
 
