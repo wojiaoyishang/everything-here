@@ -10,7 +10,7 @@
 
 | 项目名称              | 更新时间      | 项目链接                                                    |
 |-------------------|-----------|---------------------------------------------------------|
-| itdog测速网站批量ping爬虫 | 2023.12.8 | [点击查看](/wojiaoyishang/itdog-batch-ping)                 |
-| 微博爬虫设计思路仓库参考      | 2024.7.5  | [点击查看](/wojiaoyishang/everything-here/tree/master/Weibo) |
-| Python 图床爬虫       | 2024.4.6  | [点击查看](/wojiaoyishang/ImageHosting)                     |
-| 123云盘鉴权示例         | 2024.3.8  | [点击查看](/wojiaoyishang/123pan)    |
+| itdog测速网站批量ping爬虫 | 2023.12.8 | [点击查看](https://gitee.com/wojiaoyishang/itdog-batch-ping)                 |
+| 微博爬虫设计思路仓库参考      | 2024.7.5  | [点击查看](https://gitee.com/wojiaoyishang/everything-here/tree/master/Weibo) |
+| Python 图床爬虫       | 2024.4.6  | [点击查看](https://gitee.com/wojiaoyishang/ImageHosting)                     |
+| 123云盘鉴权示例         | 2024.3.8  | [点击查看](https://gitee.com/wojiaoyishang/123pan)    |
