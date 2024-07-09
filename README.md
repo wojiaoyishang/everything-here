@@ -38,7 +38,7 @@ PR 在此分享。
 
 | 网站名称             | 网址                                                 | 说明                |
 |------------------|----------------------------------------------------|-------------------|
-| 最爱皮卡丘 **我的个人博客** | [https://lovepikachu.top](https://lovepikachu.top) | 我的个人博客！还原参观。      |
+| 最爱皮卡丘 **我的个人博客** | [https://lovepikachu.top](https://lovepikachu.top) | 我的个人博客！欢迎参观。      |
 | 鑫kaiの博客          | [https://axinkai.cn/](https://axinkai.cn)          | 友情链接              |
 | 异次元之旅            | [https://travel.moe/go](https://travel.moe/go)     | 萌ICP备异次元之旅，随机一个博客 |
 
