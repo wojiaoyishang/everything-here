@@ -51,7 +51,7 @@ PR 在此分享。
 | Nite07 的小窝 **分享软件资源** | [https://www.nite07.com/](https://www.nite07.com/) | 有大部分 **国外的绿化资源** ，部分找不到的可以在这里找。          |
 | LOOKAE **分享视频剪辑资源**   | [https://www.lookae.com/](https://www.lookae.com/) | 大部分分享 Adobe 系列的插件、素材，注意不一定都有版权。          |
 
-### 解析类
+### 媒体/解析类
 
 | 网站名称                     | 网址                                                                 | 说明                                                                    |
 |--------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -61,6 +61,7 @@ PR 在此分享。
 | 无损生活 **全网音乐下载**          | [https://flac.life/](https://flac.life/)                           | **需要科学上网** ，要关注微信公众号获取下载验证码。                                          |
 | 哔哩哔哩视频下载 **社交平台视频解析**    | [https://snapany.com/zh/bilibili](https://snapany.com/zh/bilibili) | 支持：哔哩哔哩 TikTok Pinterest Facebook VK Snapchat Threads Suno            |
 | ParseVideo  **社交平台视频解析** | [https://www.parsevideo.net/](https://www.parsevideo.net/)         | 匿名访客每天可以免费解析5条网址，注册用户每天可以免费解析10个网址。不能解析国内的爱奇艺、腾讯等视频网站。                |
+| 77影视 **免费看电影、影视剧**       | [https://www.77ys.live/](https://www.77ys.live/)                   | 免费看剧，网页无广告，推荐电脑使用。如果网址打不开[点击这里](https://www.yjwz.cc/)查看导航页。           |
 
 ### 处理类
 
