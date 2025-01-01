@@ -57,8 +57,6 @@ PR 在此分享。
 |--------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
 | API开发平台 **全网音乐搜索**       | [https://suapi.net/tool/music](ttps://suapi.net/tool/music)        | 有邀请码的用户可以注册直接调用API，未注册用户只能前端搜索，下载要登录，或者你可以用IDM直接下载前端播放的音乐。有邀请码记得分我一个。 |
 | 刘志进音乐实验室 **全网音乐试听**      | [https://music.liuzhijin.cn/](https://music.liuzhijin.cn/)         | 可以解析大部分平台音乐，但是要VIP的不行，要听VIP的用第一个。                                     |
-| 新果核音乐搜搜  **全网音乐下载**      | [https://ghyinyue.com/](https://ghyinyue.com/)                     | 嘘！免费下载全网音乐，一个用户每天下载20首，不用登录。可下载无损品质音乐。简洁、无套路。                         |
-| 无损生活 **全网音乐下载**          | [https://flac.life/](https://flac.life/)                           | **需要科学上网** ，要关注微信公众号获取下载验证码。                                          |
 | 哔哩哔哩视频下载 **社交平台视频解析**    | [https://snapany.com/zh/bilibili](https://snapany.com/zh/bilibili) | 支持：哔哩哔哩 TikTok Pinterest Facebook VK Snapchat Threads Suno            |
 | ParseVideo  **社交平台视频解析** | [https://www.parsevideo.net/](https://www.parsevideo.net/)         | 匿名访客每天可以免费解析5条网址，注册用户每天可以免费解析10个网址。不能解析国内的爱奇艺、腾讯等视频网站。                |
 | 77影视 **免费看电影、影视剧**       | [https://www.77ys.live/](https://www.77ys.live/)                   | 免费看剧，网页无广告，推荐电脑使用。如果网址打不开[点击这里](https://www.yjwz.cc/)查看导航页。           |
