@@ -1,6 +1,6 @@
 <!----> 
 # 在 Python 中使用 CryptoJS
-<!---->
+<!----> 
 
 在使用 Python 爬虫的时候需要使用到类似于前端的 CryptoJS 库来生成密文或者解密密文，以达到反反爬虫的目的。但是在 Python 中并不好实现 JavaScript 的 CryptoJS 库。
 
