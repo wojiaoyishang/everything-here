@@ -55,6 +55,7 @@ PR 在此分享。
 
 | 网站名称                     | 网址                                                                 | 说明                                                                    |
 |--------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
+| API开发平台 **全网音乐搜索**       | [https://suapi.net/tool/music](ttps://suapi.net/tool/music)        | 有邀请码的用户可以注册直接调用API，未注册用户只能前端搜索，下载要登录，或者你可以用IDM直接下载前端播放的音乐。有邀请码记得分我一个。 |
 | 刘志进音乐实验室 **全网音乐试听**      | [https://music.liuzhijin.cn/](https://music.liuzhijin.cn/)         | 可以解析大部分平台音乐，但是要VIP的不行，要听VIP的用第一个。                                     |
 | 哔哩哔哩视频下载 **社交平台视频解析**    | [https://snapany.com/zh/bilibili](https://snapany.com/zh/bilibili) | 支持：哔哩哔哩 TikTok Pinterest Facebook VK Snapchat Threads Suno            |
 | ParseVideo  **社交平台视频解析** | [https://www.parsevideo.net/](https://www.parsevideo.net/)         | 匿名访客每天可以免费解析5条网址，注册用户每天可以免费解析10个网址。不能解析国内的爱奇艺、腾讯等视频网站。                |
@@ -77,12 +78,11 @@ PR 在此分享。
 [admonition title="注意" icon="exclamation-triangle" color="red"]爬虫类项目部分由本人制作，侵权请联系邮箱 lovepikachu@foxmail.com @我叫以赏 删除，请注明来意，谢谢。[/admonition]
 |-->
 
-| 项目名称                        | 更新时间      | 项目链接                                                                              |
-|-----------------------------|-----------|-----------------------------------------------------------------------------------|
-| API开发平台 **全网音乐搜索** 搜索爬虫 （失效） | 2024.7.9  | [点击查看](https://gitee.com/wojiaoyishang/everything-here/tree/master/SuapinetMusic) |
-| itdog测速网站批量ping爬虫           | 2023.12.8 | [点击查看](https://gitee.com/wojiaoyishang/itdog-batch-ping)                          |
-| 微博爬虫设计思路仓库参考                | 2024.7.5  | [点击查看](https://gitee.com/wojiaoyishang/everything-here/tree/master/Weibo)         |
-| Python 图床爬虫                 | 2024.4.6  | [点击查看](https://gitee.com/wojiaoyishang/ImageHosting)                              |
-| 123云盘鉴权示例                   | 2024.3.8  | [点击查看](https://gitee.com/wojiaoyishang/123pan)                                    |
-| 推特爬虫                        | 2024.7.15 | [点击查看](https://gitee.com/wojiaoyishang/get-tweets/tree/master)                    |
-| 网络安全题库整理                    | 2025.5.15 | [点击查看](https://gitee.com/wojiaoyishang/everything-here/tree/master/网络安全题库转化)      |
+| 项目名称                               | 更新时间      | 项目链接                                                                              |
+|------------------------------------|-----------|-----------------------------------------------------------------------------------|
+| API开发平台 **全网音乐搜索** 搜索爬虫            | 2024.7.9  | [点击查看](https://gitee.com/wojiaoyishang/everything-here/tree/master/SuapinetMusic) |
+| itdog测速网站批量ping爬虫 | 2023.12.8 | [点击查看](https://gitee.com/wojiaoyishang/itdog-batch-ping)                          |
+| 微博爬虫设计思路仓库参考                       | 2024.7.5  | [点击查看](https://gitee.com/wojiaoyishang/everything-here/tree/master/Weibo)         |
+| Python 图床爬虫                        | 2024.4.6  | [点击查看](https://gitee.com/wojiaoyishang/ImageHosting)                              |
+| 123云盘鉴权示例                          | 2024.3.8  | [点击查看](https://gitee.com/wojiaoyishang/123pan)                                    |
+| 推特爬虫 | 2024.7.15 | [点击查看](https://gitee.com/wojiaoyishang/get-tweets/tree/master) |

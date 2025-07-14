@@ -31,15 +31,15 @@ def getq(qtype):
     i = random.randint(0, len(allq) - 1)
 
     result = allq[i]
-    while result is None or result['body'][:15] in recode_txt:
+    while result is None or result['body'][:10] in recode_txt:
         result = allq[i]
         i = random.randint(0, len(allq) - 1)
 
     allq[i] = None
 
-    recode_file.write(result['body'][:15] + "\n")
+    recode_file.write(result['body'][:10] + "\n")
     recode_file.flush()
-    recode_txt += result['body'][:15]
+    recode_txt += result['body'][:10]
 
     return result
 
@@ -48,7 +48,8 @@ def summon(save_name, ptype, ppt_name, mounts_type, rand=False):
     nr_slide = 2  # 模板页
     insert_index = 3
 
-    prs = ppt_instance.Presentations.open(r'E:\Programming\Python\tiku\题包模板.pptx', read_only, has_title, window)
+    prs = ppt_instance.Presentations.open(r'E:\Programming\Python\everything-here\网络安全题库转化\题包模板.pptx',
+                                          read_only, has_title, window)
     prs.Slides(nr_slide).Copy()
 
     # 设定第一页的文字
@@ -165,12 +166,12 @@ def summon(save_name, ptype, ppt_name, mounts_type, rand=False):
 
     # 删掉模板页
     prs.Slides(nr_slide).Delete()
-    prs.SaveAs(rf'E:\Programming\Python\tiku\{save_name}.pptx')
+    prs.SaveAs(rf'E:\Programming\Python\everything-here\网络安全题库转化\{save_name}.pptx')
     prs.Close()
 
 
 def main():
-    for qtype in ['单选', '判断', '多选', '填空', '简答']:
+    for qtype in ['填空', '单选', '判断', '多选', '简答']:
         questions[qtype] = []
 
         document = Document(f"决赛题库/决赛-{qtype}题.docx")
@@ -182,7 +183,7 @@ def main():
             'index': None
         }
         for paragraph in document.paragraphs:
-            if paragraph.style.name == 'Heading 1':  # 遇到问题了
+            if paragraph.style.name == 'Heading 1' or paragraph.style.name == 'Normal' and qtype == "填空":  # 遇到问题了
                 if question_meta['body']:
                     questions[qtype].append(question_meta)
                 question_meta = question_meta.copy()

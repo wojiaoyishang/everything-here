@@ -181,6 +181,5 @@ class SupinetMusic:
 
 
 if __name__ == '__main__':
-    # 由于音乐查询被关闭，所以该程序已经失效！
     sup = SupinetMusic()
     print(sup.url("001zMQr71F1Qo8", "mp3"))
