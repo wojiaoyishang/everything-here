@@ -151,7 +151,7 @@ async def wjx(url, text_to_fill):
 
                     form_data[key] = answer
 
-                t = random.randint(3, 8)
+                t = random.randint(4, 8)
                 print(f"大概 {t} 秒 {text_to_fill.get('姓名')}")
                 await asyncio.sleep(t)
                 await page.evaluate(GET_FORM_BUTTON_CODE, form_data)

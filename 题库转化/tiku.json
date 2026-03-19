@@ -1,0 +1,392 @@
+[
+    {
+        "title": "Things like _______, mobile video ads, custom creative take over your screen for a second.",
+        "options": ["geometry", "overlay", "moisture", "water"],
+        "tip": "“overlay”意为“覆盖”，符合广告覆盖屏幕的语境。",
+        "key": "B"
+    },
+    {
+        "title": "Mobile technology can _______ professors' teaching tool-kit.",
+        "options": ["maintain", "ignore", "upgrade", "degenerate"],
+        "tip": "“upgrade”表示升级，符合移动技术提升教学工具的语境。",
+        "key": "C"
+    },
+    {
+        "title": "Engineers and operations staff investigated the failure, which was later diagnosed as a fault with a _______.",
+        "options": ["transformer", "barber", "translator", "pepper"],
+        "tip": "“transformer”（变压器）是电力系统常见设备，符合故障语境。",
+        "key": "A"
+    },
+    {
+        "title": "Over the past five years, our company has pioneered an _______ technology solution aimed at making electric cars more affordable and more convenient than gasoline cars.",
+        "options": ["ordinary", "innovative", "conservative", "insular"],
+        "tip": "“innovative”（创新的）与“pioneered”呼应，符合语境。",
+        "key": "B"
+    },
+    {
+        "title": "Youngsters were asked to _______ subjects on a list including family, job, music and friends.",
+        "options": ["criticize", "prioritize", "advertise", "sympathize"],
+        "tip": "“prioritize”意为“排序优先级”，符合语境。",
+        "key": "B"
+    },
+    {
+        "title": "China had planned to _______ its nuclear submarines at an international fleet review marking the 60th anniversary of its navy, official media reported yesterday.",
+        "options": ["conceal", "unveil", "dismantle", "obscure"],
+        "tip": "“unveil”意为“首次公开展示”，符合国际阅舰式语境。",
+        "key": "B"
+    },
+    {
+        "title": "As many as 67% of Chinese consumers are likely to buy _______ fitness monitors and 73% wants smart watches in the coming five years.",
+        "options": ["avoidable", "removable", "wearable", "edible"],
+        "tip": "“wearable”（可穿戴的）是智能设备常见描述词。",
+        "key": "C"
+    },
+    {
+        "title": "The Congressional Budget Office calculates that the deficit could rise to 23% of GDP in the next 40 years if it fails to tackle the yawning imbalance between revenue and _______.",
+        "options": ["expansion", "expedition", "expectation", "expenditure"],
+        "tip": "“expenditure”（支出）与“revenue”（收入）构成财政收支对比。",
+        "key": "D"
+    },
+    {
+        "title": "Good hygiene helps to _______ the risk of infection.",
+        "options": ["maximize", "magnify", "multiply", "minimize"],
+        "tip": "“minimize”意为“最小化”，符合卫生降低感染风险的常识。",
+        "key": "D"
+    },
+    {
+        "title": "We had _______ few application for the job.",
+        "options": ["assiduously", "relatively", "naturally", "paradoxically"],
+        "tip": "“relatively few”意为“相对较少”，语法和语义均通顺。",
+        "key": "B"
+    },
+    {
+        "title": "The _______ of computers as an educational tool is obvious.",
+        "options": ["disruption", "effectiveness", "inefficiency", "backwardness"],
+        "tip": "“effectiveness”（有效性）符合“obvious”正面语境。",
+        "key": "B"
+    },
+    {
+        "title": "In the future, the _______ travel outside our solar system will probably be conducted by robots.",
+        "options": ["interplanetary", "underground", "submarine", "cross-disciplinary"],
+        "tip": "“interplanetary”（行星间的）修饰太阳系外旅行，准确。",
+        "key": "A"
+    },
+    {
+        "title": "If you say that someone or something is a _______, you mean that they cause a lot of problems or embarrassment.",
+        "options": ["profitability", "liability", "stability", "capability"],
+        "tip": "“liability”有“负担、麻烦”之意，符合定义。",
+        "key": "B"
+    },
+    {
+        "title": "The refugees were groping their way through the dark, trying to reach _______.",
+        "options": ["safety", "prosperity", "variety", "hostility"],
+        "tip": "难民在黑暗中摸索寻求“safety”（安全），符合常理。",
+        "key": "A"
+    },
+    {
+        "title": "It calls for the _______ of all commercial lending institutions from the college loan program.",
+        "options": ["conclusion", "inclusion", "expansion", "exclusion"],
+        "tip": "“exclusion”（排除）符合“calls for”后接政策建议的语境。",
+        "key": "D"
+    },
+    {
+        "title": "The problem of _______ need of food should be solved by all governments.",
+        "options": ["astonished", "devastating", "increased", "commuting"],
+        "tip": "“increased need”表示“增长的需求”，语义通顺。",
+        "key": "C"
+    },
+    {
+        "title": "If even one-third of this capacity were built, it would have a _______ impact on global LNG prices.",
+        "options": ["signature", "significant", "sightless", "signet"],
+        "tip": "“significant impact”（显著影响）是固定搭配。",
+        "key": "B"
+    },
+    {
+        "title": "By the end of 2013, they had applied for export permits for more than 380 bcma— _______ to all of the world’s current liquefaction capacity.",
+        "options": ["effient", "equipment", "effective", "equivalent"],
+        "tip": "“equivalent to”表示“相当于”，符合句意。",
+        "key": "D"
+    },
+    {
+        "title": "This is in marked _______ to annual growth of 2.7 percent over the previous 15 years.",
+        "options": ["contact", "contrast", "condition", "contract"],
+        "tip": "“in marked contrast to”是固定搭配，意为“与…形成鲜明对比”。",
+        "key": "B"
+    },
+    {
+        "title": "The influence of these three disruptions is not likely to _______ before the turn of the decade.",
+        "options": ["wine", "waft", "wane", "wade"],
+        "tip": "“wane”意为“减弱”，符合“影响不会减弱”的语境。",
+        "key": "C"
+    },
+    {
+        "title": "The shale-gas _______ in the United States, rapidly increasing Asian demand, and the European economic crisis have driven huge price discrepancies among regional markets.",
+        "options": ["bough", "bomb", "boom", "boast"],
+        "tip": "“shale-gas boom”（页岩气繁荣）是常见经济术语。",
+        "key": "C"
+    },
+    {
+        "title": "As the _______ market becomes saturated, firms begin to export the product.",
+        "options": ["foreign", "exotic", "domestic", "remote"],
+        "tip": "“domestic market”（国内市场）饱和后转向出口，逻辑合理。",
+        "key": "C"
+    },
+    {
+        "title": "The extreme growth of investment during the financial crisis has added to the problem of _______.",
+        "options": ["shortage", "oversupply", "balance", "profile"],
+        "tip": "投资过度导致“oversupply”（供过于求），符合经济常识。",
+        "key": "B"
+    },
+    {
+        "title": "It is important for a politician to be _______ in the face of hostility.",
+        "options": ["urgent", "hesitant", "trivial", "prudent"],
+        "tip": "“prudent”（谨慎的）是政治家应有的品质。",
+        "key": "D"
+    },
+    {
+        "title": "The rail strike is causing major _______ at the country's ports.",
+        "options": ["inspirations", "sanctions", "disruptions", "celebrations"],
+        "tip": "罢工导致“disruptions”（中断、混乱），符合逻辑。",
+        "key": "C"
+    },
+    {
+        "title": "His _______ suggests that the development of this country will last at least twenty years.",
+        "options": ["analysis", "annum", "automation", "allotrope"],
+        "tip": "“analysis”（分析）可引出对发展时间的预测。",
+        "key": "A"
+    },
+    {
+        "title": "The government should focus on how to prevent the _______ crisis.",
+        "options": ["canonical", "economical", "romantic", "economic"],
+        "tip": "“economic crisis”（经济危机）是固定搭配。",
+        "key": "D"
+    },
+    {
+        "title": "_______, the less you have to do the more you may resent the work that does come your way.",
+        "options": ["Autonomously", "Paradoxically", "Consistently", "Gradually"],
+        "tip": "“Paradoxically”（自相矛盾地）符合前后逻辑矛盾的语境。",
+        "key": "B"
+    },
+    {
+        "title": "On the other hand, job profiles will improve as robots _______ dangerous, dull and dirty jobs not only in the manufacturing industrie.",
+        "options": ["take over", "take off", "take on", "take away"],
+        "tip": "“take over”意为“接管”，符合机器人替代人工的语境。",
+        "key": "A"
+    },
+    {
+        "title": "Wrong may be done either by the robot itself or by society when applying robotic devices. For example, robotic companions can attain a very high level of social _______.",
+        "options": ["degradation", "commission", "rehabilitation", "pervasiveness"],
+        "tip": "“pervasiveness”（普遍性）指社交渗透程度高，符合语境。",
+        "key": "D"
+    },
+    {
+        "title": "In addition, the technologies will enable a wide range of Earth-based exploration and material processing activities from automated undersea inspection to mining and mineral extraction under _______ condition.",
+        "options": ["streamlined", "portable", "hazardous", "fraudulent"],
+        "tip": "“hazardous condition”（危险条件）符合采矿等作业环境。",
+        "key": "C"
+    },
+    {
+        "title": "Robotic technologies will enable a broad range of innovations resulting, for example, in more _______ transport systems and intelligent household appliances.",
+        "options": ["flexible", "breakable", "solid", "stubborn"],
+        "tip": "“flexible”（灵活的）是智能交通系统的理想特性。",
+        "key": "A"
+    },
+    {
+        "title": "Furthermore, robot-based production increases product quality, improves work conditions and lead to an _______ use of resources.",
+        "options": ["criticized", "optimized", "unrecognized", "compromised"],
+        "tip": "“optimized use”（优化利用）符合机器人提高效率的语境。",
+        "key": "B"
+    },
+    {
+        "title": "Robots are known to save costs, to improve quality and work conditions, and to _______ waste of resources.",
+        "options": ["memorize", "minimize", "mobilize", "modernize"],
+        "tip": "“minimize waste”（最小化浪费）是常见环保表述。",
+        "key": "B"
+    },
+    {
+        "title": "They hoped the waiting and the _______ would make me retreat.",
+        "options": ["uncertainty", "prosperity", "integrity", "clarity"],
+        "tip": "“uncertainty”（不确定性）与“waiting”共同施加心理压力。",
+        "key": "A"
+    },
+    {
+        "title": "They say better planning is needed to assess the environmental costs and benefits of planting trees to _______ climate change.",
+        "options": ["increase", "eliminate", "mitigate", "prolong"],
+        "tip": "“mitigate”意为“缓解”，常用于“缓解气候变化”（mitigate climate change）。",
+        "key": "C"
+    },
+    {
+        "title": "Lacking an outlet, the Caspian Sea loses water only by evaporation, leading to the _______ of salt.",
+        "options": ["distribution", "emission", "accumulation", "consumption"],
+        "tip": "水分蒸发后盐分“accumulation”（积累）符合地理常识。",
+        "key": "C"
+    },
+    {
+        "title": "However, this position can mean you are forcing your body into a position that can _______ existing aches and strains in the joints and muscles.",
+        "options": ["extricate", "exacerbate", "extract", "expire"],
+        "tip": "“exacerbate”意为“加剧”，符合动作加重已有疼痛的语境。",
+        "key": "B"
+    },
+    {
+        "title": "Your spouse is the one person that you should be able to trust over all others, so when they hurt you badly, and then do so again, it's more _______ than nearly any other pain.",
+        "options": ["devastating", "absorbing", "rewarding", "corresponding"],
+        "tip": "“devastating”（毁灭性的）形容被最信任之人伤害的痛苦。",
+        "key": "A"
+    },
+    {
+        "title": "He lost much of his right arm and suffered _______ injuries, including severe traumatic brain injury.",
+        "options": ["multiple", "simple", "ample", "sample"],
+        "tip": "“multiple injuries”（多处伤）是常见医学表达。",
+        "key": "A"
+    },
+    {
+        "title": "We believe the reduction should be easily _______ by the unexpected increase in investment growth, he said.",
+        "options": ["maintained", "advanced", "postponed", "offset"],
+        "tip": "“offset”意为“抵消”，投资增长可抵消减少的影响。",
+        "key": "D"
+    },
+    {
+        "title": "Many of its glaciers are steadfastly retreating due to rising temperatures and declining _______.",
+        "options": ["progression", "prediction", "projection", "precipitation"],
+        "tip": "冰川退缩与“precipitation”（降水量）减少直接相关。",
+        "key": "D"
+    },
+    {
+        "title": "They now have a health system strengthening fund that is starting to invest _______ amount of money.",
+        "options": ["dependable", "conceivable", "considerable", "disputable"],
+        "tip": "“considerable amount”（可观的金额）是固定搭配。",
+        "key": "C"
+    },
+    {
+        "title": "Currently, induction-loop systems and hearing aids can be used to improve the volume of _______ sounds, but cannot target and amplify specific sounds effectively.",
+        "options": ["inner", "distracting", "ambient", "hostile"],
+        "tip": "“ambient sounds”指环境声音，符合助听设备应用场景。",
+        "key": "C"
+    },
+    {
+        "title": "Higher CO2 lets plants in greenhouses cut water losses because they can take in enough of the gas without opening their _______ as widely.",
+        "options": ["bellies", "stems", "limbs", "stomata"],
+        "tip": "“stomata”（气孔）是植物吸收CO2和水分蒸腾的通道。",
+        "key": "D"
+    },
+    {
+        "title": "It has not been revealed if Samsung plans to make the _______ synthesis process public, a move that would rapidly accelerate the adoption of graphene into daily use.",
+        "options": ["redundant", "conventional", "groundbreaking", "heartbreaking"],
+        "tip": "“groundbreaking”（开创性的）形容石墨烯合成工艺的突破性。",
+        "key": "C"
+    },
+    {
+        "title": "We expect this discovery to _______ the commercialization of graphene, which could unlock the next era of consumer electronic technology.",
+        "options": ["accelerate", "soften", "hinder", "terminate"],
+        "tip": "“accelerate commercialization”（加速商业化）符合积极语境。",
+        "key": "A"
+    },
+    {
+        "title": "Previously, small graphene particles had been combined to form large-area graphene, but the process _______ both the mechanic and electric effectiveness of the substance.",
+        "options": ["diminished", "diagnosed", "dictated", "diverged"],
+        "tip": "“diminished”（削弱）指工艺降低了石墨烯性能。",
+        "key": "A"
+    },
+    {
+        "title": "If this _______ can be overcome, however, graphene could be used in a huge range of devices as a super-fast replacement for silicon transistors.",
+        "options": ["deficiency", "sufficiency", "expediency", "proficiency"],
+        "tip": "“deficiency”（缺陷）指阻碍石墨烯应用的技术短板。",
+        "key": "A"
+    },
+    {
+        "title": "The substance is so _______ that it has even been touted as the future of condoms.",
+        "options": ["mono-functional", "versatile", "legislative", "toxic"],
+        "tip": "“versatile”（多功能的）体现石墨烯用途广泛。",
+        "key": "B"
+    },
+    {
+        "title": "It is also almost _______, impermeable to gas, and its properties are easily alterable.",
+        "options": ["soundproof", "transparent", "all clear", "lightproof"],
+        "tip": "石墨烯“transparent”（透明）是其重要物理特性之一。",
+        "key": "B"
+    },
+    {
+        "title": "If they overcome that then it will be a big ________.",
+        "options": ["drawback", "luck", "prospect", "breakthrough"],
+        "tip": "“breakthrough”（突破）指克服技术障碍后的重大进展。",
+        "key": "D"
+    },
+    {
+        "title": "It could be used to create ultra-light components for, say, the aviation industry, _______ reducing the weight of aircraft efficiency without compromising strength or integrity.",
+        "options": ["orally", "illegally", "punctually", "dramatically"],
+        "tip": "“dramatically reducing”（显著降低）符合航空减重效果描述。",
+        "key": "D"
+    },
+    {
+        "title": "Its flexibility means that it could _______ be used for flexible or wearable devices.",
+        "options": ["passively", "potentially", "previously", "pitifully"],
+        "tip": "“potentially”（潜在地）表示未来应用可能性。",
+        "key": "B"
+    },
+    {
+        "title": "With graphene, they _______ the beginnings of a material that could change the world.",
+        "options": ["sparked", "delayed", "quenched", "flickered"],
+        "tip": "“sparked the beginnings”意为“点燃了开端”，比喻开创性。",
+        "key": "A"
+    },
+  {
+        "title": "Tenants and their advisors increasingly expect smart building features and some municipalities now have new _______ requiring public disclosure of facility energy efficiency.",
+        "options": ["occasions", "inheritances", "ordinances", "ambulances"],
+        "tip": "“ordinances”指地方法规，符合市政强制披露能效的语境。",
+        "key": "C"
+    },
+    {
+        "title": "The Empire State Building, for example, exceeded projected energy savings for the second _______ year following an extensive phased retrofit begun in 2009.",
+        "options": ["conservative", "conspicuous", "contrived", "consecutive"],
+        "tip": "“consecutive year”（连续第二年）符合时间顺序描述。",
+        "key": "D"
+    },
+    {
+        "title": "Using data generated by building automation systems, a smart-building management system can _______ minute changes in fan speed, air temperatures or energy consumption.",
+        "options": ["steal", "dismiss", "detect", "inject"],
+        "tip": "“detect”意为“检测”，符合系统感知微小变化的功能。",
+        "key": "C"
+    },
+    {
+        "title": "Since smart buildings involve computer-controlled systems, owners and investors often _______ that operation requires a small army of computer programmers.",
+        "options": ["deny", "invent", "doubt", "assume"],
+        "tip": "“assume”（假设）体现常见误解，符合上下文逻辑。",
+        "key": "D"
+    },
+    {
+        "title": "The resulting savings, according to two major corporate energy management studies, have become increasingly _______ for a building to remain financially competitive in the marketplace.",
+        "options": ["essential", "optional", "unnecessary", "expendable"],
+        "tip": "“essential”（必不可少的）强调节能对市场竞争力的关键性。",
+        "key": "A"
+    },
+    {
+        "title": "Cloud computing is another advance that makes smart building management systems financially _______ to a degree not previously possible.",
+        "options": ["impossible", "charitable", "feasible", "impermeable"],
+        "tip": "“feasible”（可行的）表示云计算使系统在经济上可实现。",
+        "key": "C"
+    },
+    {
+        "title": "In large buildings with _______ building automation systems, relatively inexpensive devices can be connected to the building control panel to enable a smart building management system to extract and analyze real-time equipment data.",
+        "options": ["candid", "centralized", "capitalized", "cellular"],
+        "tip": "“centralized systems”（集中式系统）是楼宇自动化常见架构。",
+        "key": "B"
+    },
+    {
+        "title": "The internet and significant price reductions on IT _______ such as wireless sensors have made smart-building technologies much more affordable.",
+        "options": ["commemorations", "components", "commitments", "compliments"],
+        "tip": "“IT components”（IT组件）如无线传感器，符合技术语境。",
+        "key": "B"
+    },
+    {
+        "title": "The technology to enable this competitive _______ is already at hand.",
+        "options": ["edge", "brink", "risk", "flaw"],
+        "tip": "“competitive edge”（竞争优势）是固定搭配。",
+        "key": "A"
+    },
+    {
+        "title": "For each pixel, the program calculates the composition of the material ______ to it.",
+        "options": ["afar", "adjacent", "recent", "foreign"],
+        "tip": "“adjacent to”意为“邻近”，指与像素相邻的材料组成。",
+        "key": "B"
+    }
+]
