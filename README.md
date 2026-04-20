@@ -59,8 +59,7 @@ PR 在此分享。
 | 刘志进音乐实验室 **全网音乐试听**      | [https://music.liuzhijin.cn/](https://music.liuzhijin.cn/)         | 可以解析大部分平台音乐，但是要VIP的不行，要听VIP的用第一个。                                     |
 | 哔哩哔哩视频下载 **社交平台视频解析**    | [https://snapany.com/zh/bilibili](https://snapany.com/zh/bilibili) | 支持：哔哩哔哩 TikTok Pinterest Facebook VK Snapchat Threads Suno            |
 | ParseVideo  **社交平台视频解析** | [https://www.parsevideo.net/](https://www.parsevideo.net/)         | 匿名访客每天可以免费解析5条网址，注册用户每天可以免费解析10个网址。不能解析国内的爱奇艺、腾讯等视频网站。                
-
-## 处理类
+| 皮卡丘的音乐站 **全网音乐视听**  | [https://charlespikachu.github.io/musicsquare/](https://charlespikachu.github.io/musicsquare/) |  需要科学上网  |
 
 | 网站名称                | 网址                                                           | 说明                                |
 |---------------------|--------------------------------------------------------------|-----------------------------------|
